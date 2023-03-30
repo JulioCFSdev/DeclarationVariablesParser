@@ -1,0 +1,12 @@
+int a
+int b
+a -> 3
+b -> 2
+print(a)
+print(b)
+int x
+int y
+x -> 1 + 4
+y -> 6 - 2
+print(x)
+print(y)
